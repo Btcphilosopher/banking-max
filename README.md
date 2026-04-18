@@ -1,4 +1,4 @@
-# AUREUM CORE
+# banking max
 ## Autonomous Unified Runtime for Enterprise Monetary Systems
 
 ```
